@@ -1,9 +1,12 @@
-Spotlight on SIG Contributor Experience
-=======================================
+---
+layout: blog
+title: "Spotlight on SIG CLI"
+date: 2023-07-20
+slug: sig-cli-spotlight-2023
+canonicalUrl: 
+---
 
-By Fyka Ansari | Tuesday, May 20, 2023
---------------------------------------
-
+**Author**: Fyka Ansari
 
 Welcome to the world of Kubernetes and its vibrant contributor community! In this blog post, we'll be shining a spotlight on the Special Interest Group for Contributor Experience (SIG ContribEx), an essential component of the Kubernetes project.
 
