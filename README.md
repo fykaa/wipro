@@ -1,8 +1,8 @@
 ---
 layout: blog
-title: "Spotlight on SIG CLI"
-date: 2023-07-20
-slug: sig-cli-spotlight-2023
+title: "Spotlight on SIG ContribEx"
+date: 2023-08-04
+slug: sig-contribex-spotlight-2023
 canonicalUrl: 
 ---
 
